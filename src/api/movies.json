@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 3,
+      "name": "Arrow",
+      "rating": 7.8,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Rogue",
+      "rating": 7.4,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/uOw5JD8IlD546feZ6oxbIjvN66P.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Project Power",
+      "rating": 6.7,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/TnOeov4w0sTtV2gqICqIxVi74V.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Superman",
+      "rating": 7.6,
+      "overview": "This is a wider card with supporting text below as a natural lead-in to additional content.",
+      "imageURL": "https://image.tmdb.org/t/p/w220_and_h330_face/6Bbq8qQWpoApLZYWFFAuZ1r2gFw.jpg"
+    },
+    {
+      "name": "Mucize Doktor",
+      "rating": "8.2",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aMnw2i3qpmqqrxIVNTzrd8zV37g.jpg",
+      "overview": "Otistik ve Savant Sendromlu Shaun Murphy (Highmore) isimli genç bir cerrah, prestijli bir hastanenin çocuk cerrahisi birimine yerleştirilir. Şu sorunun cevabı aranır: İnsanlarla iletişim kurma yeteneğine sahip olmayan bir kişi insanların hayatlarını kurtarabilir mi? Yalnız ve çevresindeki kişilerle iletişim kuramayan Shaun, hastalarının hayatlarını kurtarmak ve meslektaşlarının şüphelerini yok etmek için olağanüstü yeteneklerini kullanır.",
+      "id": 8
+    },
+    {
+      "name": "Nasıl Süper Kahraman Oldum",
+      "rating": "6.1",
+      "imageURL": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nM5i9pp24ADppiQ2EQYQXpoDXyl.jpg",
+      "overview": "İnsanlarla süper kahramanların bir arada yaşadığı dünyadaki yalnız polis, süper güçleri ortaya çıkaran korkunç planı bozmak için zeki bir dedektifle iş birliği yapar.",
+      "id": 9
+    }
+  ]
+}
